@@ -2,6 +2,6 @@
 layout: slide
 tittle: "Welcome to our second slide!"
 ---
-Your text
+Just an experiment
 ---
 Use the left arrow to go back!
